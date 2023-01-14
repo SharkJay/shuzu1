@@ -12,6 +12,8 @@ int main08() {
 	printf("%u\n", &a);
 	printf("%u\n", a);
 
+
+
 	printf("%u\n", &a[0] + 1);
 	printf("%u\n", &a + 1);
 	printf("%u\n", a + 1);
